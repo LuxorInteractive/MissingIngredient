@@ -1,3 +1,3 @@
 # MissingIngredient
-Private Repository for Missing Ingredient - www.mi-kc.com
+Private Repository for Missing Ingredient - http://www.mi-kc.com
 
